@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+
+header{
+    display: flex;
+    height: 170px;
+    background-color: #275AB3;
+    border-radius: 15px;
+    margin: 0 5% 0 5%;
+    justify-content: center
+}
+
+.marrano{
+    padding-left: 191px;
+}
+.logo{
+    float: left;
+    padding: 1px 0 25px 0;
+    margin-left: 25%;
+}
+.alinea{
+    margin-left: 15px;
+}
+.texto{
+    color: white;
+    font-size: 79px;
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 27px;
+    margin-left: -791px;
+}
+.Titulo{
+    font-family: 'Raleway', sans-serif ;
+    font-size: 20px;
+    margin-top: 24px;
+    padding-left: -840px;
+    color: white;
+}
+
+.links{
+    font-family: 'Raleway', sans-serif;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #275AB3;
+    margin: 25px 5% 25px 5%;
+    border-radius: 8px;
+}
+
+.links a{
+    text-decoration: none;
+    color: white;
+    font-size: large;
+}
+
+.links ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+.links li{
+    padding-inline-start: 70px;
+}
+.Titulo{
+    font-family: 'Raleway', sans-serif ;
+    font-size: 20px;
+    margin-top: 122px;
+    text-align: center;
+    margin-left: -555px;
+    color: white;
+}
+.parrafo{
+    width: 55%;
+    margin-left: 15%;
+    margin-top: 25px;
+    padding: 30px 5% 30px 5%;
+    font-family:'Montserrat', sans-serif;
+    color: black;
+}
+h2 {
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    padding-bottom: 15px;
+}
+h1{
+    padding-bottom: 15px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+ol{
+    margin-top: 30px;
+}
+p {
+    margin-top: 30px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+}
+li{
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+}
+.tarjetas{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 248px;
+    height: 206px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
